@@ -1,7 +1,7 @@
 Hii..This is B.Uma Maheswari...This is about my Mscloud project detail
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 Project Name:Healthy food is Happy Mood
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 Industry*:
 Health
 
@@ -22,7 +22,7 @@ Html,
 Css,
 Java Script
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 Project Demo Links:
 
 Github Reprosistory Name:https://github.com/bollauma/HEALTHY-FOOD-IS-HAPPY-MOOD
@@ -31,7 +31,7 @@ Github Project Link:https://bollauma.github.io/HEALTHY-FOOD-IS-HAPPY-MOOD/
 
 Azure Project Link:https://proud-stone-0a7d74110.2.azurestaticapps.net
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 
 Project Screen Shots:
 
