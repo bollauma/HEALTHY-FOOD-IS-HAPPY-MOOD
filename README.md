@@ -29,7 +29,7 @@ Github Reprosistory Name:https://github.com/bollauma/HEALTHY-FOOD-IS-HAPPY-MOOD
 
 Github Project Link:https://bollauma.github.io/HEALTHY-FOOD-IS-HAPPY-MOOD/
 
-Azure Project Link:https://proud-stone-0a7d74110.2.azurestaticapps.net
+Azure Project Link:https://green-beach-0f45b8010.2.azurestaticapps.net
 
 
 
